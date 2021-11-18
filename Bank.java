@@ -7,12 +7,12 @@ class Bank{
     System.out.println("Welcome to the bank");
 
 double b=10004;//Bank Balance
-double o;//operation like withdrawal or deposit
+double o;//opeartion like withdrawal or deposit
   int n; 
     
     do{
-      System.out.println("press 1 to view your balance.");
-      System.out.println("Press 2 to deposit money."); 
+      System.out.println("press 1 to view your balance.");      System.out.println("Press 2 to deposit money."); 
+
       System.out.println("Press 3 to withdraw money."); 
       System.out.println("Press 4 to leave the bank.");
        n = ob.nextInt();
